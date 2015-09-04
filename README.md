@@ -1,2 +1,2 @@
 # peers-ffggrz
-fastd peersr der Community Gera-Greiz
+fastd peers der Community Gera-Greiz
