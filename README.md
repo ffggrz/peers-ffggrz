@@ -2,7 +2,7 @@
 
 Hier werden die öffentlichen *fastd*-Schlüssel der Community [Freifunk Gera-Greiz]("http://gera-greiz.freifunk.net/") hinterlegt.
 
-Dieses Repository wird mit alle 15 Minuten synchronisiert.
+Dieses Repository wird von den Gateways alle 15 Minuten synchronisiert.
 
 > Erst 15 Minuten *nachdem* ein Schlüssel hier auftaucht, kann die passende Node dazu sich erst verbinden.
 
